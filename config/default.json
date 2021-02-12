@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin-anonymous:anonymous@cluster0.k6gos.mongodb.net/Note?retryWrites=true&w=majority",
+    "JsonSecret":"PrivateKey"
+}
